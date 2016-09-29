@@ -1,0 +1,19 @@
+body {
+  background-image: url("http://i.cdn.turner.com/cnn/.e/img/3.0/branding/backgrounds/on-the-road-japan/ontheroadjapan-background-full.jpg");
+  font-family: 'Yatra One';
+  color: white;
+  text-align: center;
+}
+
+.black-box{
+  width: 325px;
+  height: 325px;
+  margin-top: 50px;
+  background-color: black;
+}
+
+.flag-image {
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
